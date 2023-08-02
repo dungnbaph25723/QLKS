@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QLPhongKhachSan">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/QLPhongKhachSan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

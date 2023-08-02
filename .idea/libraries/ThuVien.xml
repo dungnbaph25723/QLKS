@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="ThuVien">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/mssql-jdbc-9.4.1.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/core-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/slf4j-log4j12-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/bridj-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/mssql-jdbc-10.2.1.jre17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/javase-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/bridj-0.6.2-windows-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/webcam-capture-0.3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/icons/ThuVien/jcalendar-tz-1.3.3-4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
